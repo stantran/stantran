@@ -2,7 +2,7 @@
 - 💭 I’m interested in coding
 - 📚 I’m currently learning how to use GitHub
 - 🤝 I’m looking to collaborate on anything for beginners
-- 📫 you can reach me via my school email, stanley.tran3@student.tdsb.on.ca
+- 📫 You can reach me via my school email, stanley.tran3@student.tdsb.on.ca
 
 <!---
 stantran/stantran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
